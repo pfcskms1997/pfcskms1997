@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Minseong Kang 👋
+# 👋 Hi there, I'm Minseong Kang 👋
 
 <!--
 **pfcskms1997/pfcskms1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠 Stacks
+## :hammer_and_wrench: Stacks
 <div>
   <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 </div>
 
-## GitHub
+## :octocat: GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pfcskms1997&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfcskms1997&layout=compact)
 
 
-## Solved.ac
+## 🌱Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pfcskms1997)](https://solved.ac/pfcskms1997)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pfcskms1997&theme=cold)
